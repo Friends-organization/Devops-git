@@ -2,4 +2,11 @@ DEVOPS -- TERRAFORM, DOCKER, KUBERNET
 aws.txt....git init ,git clone,cd clone
 hello dolly
 hello poojitha
+<<<<<<< HEAD
 aws/dev
+=======
+Welcome to GIT MERGE CONFLICT
+PULL REQUEST
+hello dolly
+hello mr.chinnu and mr.munnu...
+>>>>>>> 411776ca6cf9d5c8ec5a63035c09f45811fa97b7
