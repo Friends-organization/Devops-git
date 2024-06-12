@@ -2,6 +2,8 @@ DEVOPS -- TERRAFORM, DOCKER, KUBERNET
 aws.txt....git init ,git clone,cd clone
 hello dolly
 hello poojitha
+aws/dev
+=======
 Welcome to GIT MERGE CONFLICT
 PULL REQUEST
 hello dolly
@@ -9,4 +11,6 @@ hello mr.chinnu and mr.munnu...
 DEVOPS -- TERRAFORM, DOCKER, KUBERNETES
 aws.txt....git init ,git clone,cd repo
 git workflow,git init, git clone, git repo, git status, git add ., git commit "msg", git push, git fetch,git pull.
+
+
 DEVOPS -- TERRAFORM, DOCKER, KUBERNETES....
