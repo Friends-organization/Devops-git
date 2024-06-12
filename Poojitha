@@ -12,7 +12,5 @@ aws.txt....git init ,git clone,cd repo
 git workflow,git init, git clone, git repo, git status, git add ., git commit "msg", git push, git fetch,git pull.
 git workflow
 git branches
-
-
 DEVOPS -- TERRAFORM, DOCKER, KUBERNETES....
 git hub git changes
